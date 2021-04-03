@@ -1,6 +1,7 @@
 # Test for frontend development.
 
-Use this project, to make a responsive grid. Grid have to be different in desktop and mobile devices.</p>
+Use this repository to make a responsive grid. 
+Grid have to be different in desktop and mobile devices.</p>
 
 ## Grid elements
 Grid can be so simple or fancy as you like. You can use plain text or angular typescript for adding a content. 
@@ -13,14 +14,14 @@ Grid have to contain elements:
 
 ## Use Bootstrap
 
-- Add bootstrap with yarn or npm
-- Use row or d-flex for making a grid
-- Style language: scss
-- Add bootstrap plugin to project (in angular.js file)
+- Add `bootstrap` with yarn or npm
+- Use `row col` or `d-flex` for making a grid
+- Style language: `scss`
+- Add bootstrap plugin to project (in angular.json file)
 - Import bootstrap scss files from node_modules
 
 ## Result
-- Publish your result to "your name" branch
+- Publish your result to "your_name" branch
 
 
 # AngularLogicsparkTest
