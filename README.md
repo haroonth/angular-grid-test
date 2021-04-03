@@ -11,16 +11,16 @@ Grid have to contain elements:
 - content
 - button
 
-## Use Uikit
+## Use Bootstrap
 
-- Add uikit with npm
-- Use uk-grid for making a grid
+- Add bootstrap with yarn or npm
+- Use row or d-flex for making a grid
 - Style language: scss
-- Add uikit.js to project (in angular.js file)
-- Import uikit scss files from node_modules
+- Add bootstrap plugin to project (in angular.js file)
+- Import bootstrap scss files from node_modules
 
 ## Result
-- Publish your result to "dev" branch
+- Publish your result to "your name" branch
 
 
 # AngularLogicsparkTest
